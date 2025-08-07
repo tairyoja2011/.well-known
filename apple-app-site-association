@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "5G7725Y9XW.jp.co.shimizu.bankingappli",
+             "paths": ["/1smz-appli_test/openstore.html","/1smz-appli/openstore.html"]
+           }
+       ]
+   }
+}
