@@ -1,0 +1,27 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.co.shimizu.bankingappli",
+    "sha256_cert_fingerprints":
+    ["BC:B6:97:C3:90:87:82:CE:8D:D3:F9:73:F4:3E:55:6D:99:77:31:0A:FE:C9:32:DB:1B:02:3B:43:3F:E2:7C:D1"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.co.shimizu.bankingappli",
+    "sha256_cert_fingerprints":
+    ["F2:85:61:52:4A:63:F9:5D:B6:FE:9A:0F:D9:AF:9A:D2:36:D3:D6:78:C2:87:EF:B4:43:40:15:34:BB:DF:B7:55"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.co.shimizu.bankingappli",
+    "sha256_cert_fingerprints":
+    ["99:F3:02:85:B8:AD:94:76:B1:28:09:A2:79:AC:A3:21:CE:3B:F5:E0:B1:EB:61:3E:66:FC:44:DF:6D:77:25:57"]
+  }
+}]
