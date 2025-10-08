@@ -4,7 +4,7 @@
       "details": [
            {
              "appID": "5G7725Y9XW.jp.co.shimizu.bankingappli",
-             "paths": [".well-known/openstore.html"]
+             "paths": ["/.well-known/openstore.html", "*"] // ルート相対パスと、全てのパスを許可するワイルドカード
            }
        ]
    }
